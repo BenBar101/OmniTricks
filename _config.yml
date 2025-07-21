@@ -1,6 +1,6 @@
 title: OmniTricks
 description: A brief description of your site
-theme: minima
+theme: jekyll-theme-architect
 
 plugins:
   - jekyll-feed
