@@ -3,14 +3,13 @@ layout: default
 title: My GitHub Pages Site
 ---
 
-# Welcome to My Website
+# ברוכים הקוראים
 
-This is my new GitHub Pages site using a clean template.
+בופה של רעיונות, קחו מכאן מה שטוב לכם
 
-## About Me
+## עליי
 
-Write something about yourself here.
-
+סטודנט לפיזיקה חישובית קוונטית, אוהב זאנרים שונים של מוזיקה וספרים וחוטא בשנינות יתר פה ושם
 ## My Projects
 
 - Project 1
