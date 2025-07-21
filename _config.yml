@@ -1,0 +1,7 @@
+title: OmniTricks
+description: A brief description of your site
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
